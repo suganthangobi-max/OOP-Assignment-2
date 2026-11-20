@@ -1,4 +1,4 @@
-// Member 3: Extra class for the person who books and pays for a ride.
+//  Extra class for the person who books and pays for a ride.
 public class Passenger {
     private String name;         // Passenger name
     private int age;             // Passenger age
