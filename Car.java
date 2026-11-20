@@ -1,4 +1,4 @@
-// Member 1: Base class from Assignment 1, shared by different types of cars.
+// Base class from Assignment 1, shared by different types of cars.
 // "implements RideFare" gives all cars the same fare-calculation method name.
 public class Car implements RideFare {
     // All 7 attributes are private to protect the object's data.
