@@ -1,4 +1,4 @@
-// Member 2: Extra class for the person who drives the selected car.
+//  Extra class for the person who drives the selected car.
 public class Driver {
     // Private data protects the driver's details (encapsulation).
     private String name;           // Driver name
