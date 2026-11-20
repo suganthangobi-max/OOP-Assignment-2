@@ -1,4 +1,4 @@
-// Member 1: A sedan is a type of Car (inheritance).
+// A sedan is a type of Car (inheritance).
 public class SedanCar extends Car {
     private int bootSize; // Sedan's extra attribute: luggage space in litres
 
