@@ -1,4 +1,4 @@
-// Member 3: Extra class connecting Passenger, Driver and Car for one ride.
+// Extra class connecting Passenger, Driver and Car for one ride.
 public class RideBooking {
     private int bookingId;        // Unique number identifying this booking
     private String pickup;        // Where the ride begins
