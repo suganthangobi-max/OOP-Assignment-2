@@ -1,4 +1,4 @@
-// Member 2: An SUV is another type of Car (inheritance).
+// An SUV is another type of Car (inheritance).
 public class SUVCar extends Car {
     private int extraSeats; // SUV's extra attribute: additional passenger seats
 
